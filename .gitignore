@@ -7,10 +7,10 @@ bin/
 .cache
 .gradle
 .idea
-.log
 .bak
 build/
 out/
 *.ipr
 *.iws
 *.iml
+*.log
